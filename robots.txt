@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /links.html
 
-Sitemap: https://aivideoverdict.com/sitemap.xml
+Sitemap: https://fitch-lad.github.io/aivideoverdict/sitemap.xml
