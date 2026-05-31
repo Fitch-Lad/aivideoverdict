@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /links.html
+
+Sitemap: https://aivideoverdict.com/sitemap.xml
